@@ -1,0 +1,1 @@
+To run the program firstly you have to set the password of Mysql which is "90897"
